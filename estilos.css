@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#Contenedor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Contenedor button{
+    margin: 30px;
+    height: 55px;
+    width: 85px;
+}
+
+#Especializado{
+    display: flex;
+    margin: 20px;
+    margin-left: 30%;
+    height: 300px;
+    width: 400px;
+    border: 3px solid;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    max-width: 350px;
+}
+
